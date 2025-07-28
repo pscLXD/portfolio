@@ -27467,7 +27467,7 @@ var Cmi5;
     };
 }());
 /* declare globals that are set via Desktop token replacement for configuration */
-var TC_COURSE_ID = "_5d5vBKxbB3c";
+var TC_COURSE_ID = "_6jYHUkPzaEY";
 var TC_COURSE_NAME = "GuessThisThing";
 var TC_COURSE_DESC = "GuessThisThing";
 var TC_RECORD_STORES = "[]";
