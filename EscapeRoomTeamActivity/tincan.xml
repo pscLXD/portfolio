@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Escape Room Team Activity</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6KNQUgZRRrj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Color Set 01 - Welcome</name>
+			<description lang="und">Color Set 01 - Welcome</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6WcyyDxXXO2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Title Slide</name>
+			<description lang="und">Title Slide</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6RPP4b5sw09" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6brjwt6ZZcS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Front Door</name>
+			<description lang="und">Front Door</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6D8sEaHxlni" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Apartment Map</name>
+			<description lang="und">Apartment Map</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6NJqAfXPont" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Home Office 01</name>
+			<description lang="und">Home Office 01</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6pg9Luc4sBt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Home Office 02</name>
+			<description lang="und">Home Office 02</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6Kye1IhjBzr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Home Office 02</name>
+			<description lang="und">Home Office 02</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6IzFCcFs9xS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">GuestRoomMain</name>
+			<description lang="und">GuestRoomMain</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6MMZB6xgDrt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6Qniy2OBkfQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">GuestRoomSolved</name>
+			<description lang="und">GuestRoomSolved</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/5mlxonHkjEy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">BedroomMain</name>
+			<description lang="und">BedroomMain</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/5x9wns2PcUu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">BedroomMain</name>
+			<description lang="und">BedroomMain</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/5hrnoKjoB31" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/5VtRyE2JcCP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">FInal Slide</name>
+			<description lang="und">FInal Slide</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6XgfDratxBl" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Living Room</name>
+			<description lang="und">Living Room</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6UKa0XUDgoB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">CardGame</name>
+			<description lang="und">CardGame</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6RsD0n7vqEJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cards</name>
+			<description lang="und">Cards</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6rR9vc7xVZh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Kitchen Main</name>
+			<description lang="und">Kitchen Main</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/5nkHDSwtixm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Main Fridge</name>
+			<description lang="und">Main Fridge</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6qZGmifSkos" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fridge puzzle</name>
+			<description lang="und">Fridge puzzle</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6LRi0VDuopJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">MainBathroom</name>
+			<description lang="und">MainBathroom</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6aMJwjc2IU2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">PipePuzzle</name>
+			<description lang="und">PipePuzzle</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/62EAyj5fEM2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Toilet</name>
+			<description lang="und">Toilet</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/5uu2XvDyAEf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Back outside</name>
+			<description lang="und">Back outside</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6lyDEUrZ5yz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fin</name>
+			<description lang="und">Fin</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6mYDCfJMTyT/6UBP0IHlgna" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+	</activities>
+</tincan>
