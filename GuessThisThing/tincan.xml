@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:5d5vBKxbB3c" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">GuessThisThing</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:5d5vBKxbB3c/6VFYVUV7Wyt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Main Title</name>
+			<description lang="und">Main Title</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5d5vBKxbB3c/6AmyBc6dRUj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">BuzzIn</name>
+			<description lang="und">BuzzIn</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5d5vBKxbB3c/6dLsRSPOjMS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Main Title</name>
+			<description lang="und">Main Title</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5d5vBKxbB3c/5z9Qdg0lwyD" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RoundOneTitle</name>
+			<description lang="und">RoundOneTitle</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5d5vBKxbB3c/5s9w0bPYsS7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RoundOne</name>
+			<description lang="und">RoundOne</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5d5vBKxbB3c/6Hs6zeiDqyd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RoundTwoTitle</name>
+			<description lang="und">RoundTwoTitle</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5d5vBKxbB3c/6R3BzSJmvZR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">FinalGuessTitle</name>
+			<description lang="und">FinalGuessTitle</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5d5vBKxbB3c/68dWb1cfId3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Boomarang</name>
+			<description lang="und">Boomarang</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5d5vBKxbB3c/5XM0hKy8ruf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RoundTwo</name>
+			<description lang="und">RoundTwo</description>
+		</activity>
+	</activities>
+</tincan>
