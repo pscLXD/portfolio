@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://68LF7JF7Gpk_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">NatureAndCitiesSim</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/5wCDfg4INde" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Title Slide</name>
+			<description lang="und">Title Slide</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/67OWTPEXWUB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Main Menu</name>
+			<description lang="und">Main Menu</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/5p1iJ3vgrBa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Deforest Main</name>
+			<description lang="und">Deforest Main</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/5eHSoJ4nZ4l" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Deforest Animation</name>
+			<description lang="und">Deforest Animation</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/6rYZyCjh5Oe" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Deforest Q1</name>
+			<description lang="und">Deforest Q1</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/61z6UoilaIg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Deforest Q2</name>
+			<description lang="und">Deforest Q2</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/6O8dvYdAM6q" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Deforest Q3</name>
+			<description lang="und">Deforest Q3</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/5fn5cKhRC9G" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Deforest End</name>
+			<description lang="und">Deforest End</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/6NAlA5tFcbr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tsunami Main</name>
+			<description lang="und">Tsunami Main</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/5mLP9yYum2b" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tsunami Hits</name>
+			<description lang="und">Tsunami Hits</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/6SDkNINp4DA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tsunami Q1</name>
+			<description lang="und">Tsunami Q1</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/6qpOevddEhV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tsunami Q2</name>
+			<description lang="und">Tsunami Q2</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/5ZkNWcUT65U" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tsunami Q3</name>
+			<description lang="und">Tsunami Q3</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/63QZhmR6YWO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tsunami End</name>
+			<description lang="und">Tsunami End</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/6WMcNJI8YB0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Earthquake Main</name>
+			<description lang="und">Earthquake Main</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/6ZDrme9Rvo7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Earthquake Animation</name>
+			<description lang="und">Earthquake Animation</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/5tQIpbhTSfI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Earthquake Aftermath - Q1</name>
+			<description lang="und">Earthquake Aftermath - Q1</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/65ybTnF32pk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">PowerStationRestart</name>
+			<description lang="und">PowerStationRestart</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/6IbQUjV6j4H" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">CarbonReduction</name>
+			<description lang="und">CarbonReduction</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/63tRfnQa4fM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">YouDidItEQ</name>
+			<description lang="und">YouDidItEQ</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/67xwdxlgTU6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fire Main</name>
+			<description lang="und">Fire Main</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/6cdBCn94JTP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Flood Main</name>
+			<description lang="und">Flood Main</description>
+		</activity>
+		<activity id="http://68LF7JF7Gpk_course_id/5bTgk4pFVDM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Flood Main</name>
+			<description lang="und">Flood Main</description>
+		</activity>
+	</activities>
+</tincan>
