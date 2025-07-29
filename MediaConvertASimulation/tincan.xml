@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5cSae6KZRJg_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">MediaConvert: A Simulation</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6Fo5Yl0CwSt" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">MediaConvert: A Simulation</name>
+			<description lang="und">MediaConvert: A Simulation</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/63gPDAbBK4f" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5oAJfuYwLYX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Your CEO comes to you with a request!
+
+“We’re using a set of tablets for an upcoming off-site conference, and I want you to preload my Fourth Quarter message video on them.”</name>
+			<description lang="und">Your CEO comes to you with a request!
+
+“We’re using a set of tablets for an upcoming off-site conference, and I want you to preload my Fourth Quarter message video on them.”</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6oiPvSY0Uek" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">“Sure thing,” you reply. He likes the 
+sound of that!
+
+You log in to your AWS Management Console, ready to use AWS Elemental MediaConvert to transcode the Super HD 4K Fourth Quarter CEO recording into something more managable...</name>
+			<description lang="und">“Sure thing,” you reply. He likes the 
+sound of that!
+
+You log in to your AWS Management Console, ready to use AWS Elemental MediaConvert to transcode the Super HD 4K Fourth Quarter CEO recording into something more managable...</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6VdQIzPO1iH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">You start the AWS Elemental MediaConvert process... in your AWS S3 storage bucket...</name>
+			<description lang="und">You start the AWS Elemental MediaConvert process... in your AWS S3 storage bucket...</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5bj1ewQVAdI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/61Begqu142T" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/61Begqu142T/6ifnHEFfWAc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6cHARV8nw61</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6cHARV8nw61</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6OnLbcXJIXV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6OnLbcXJIXV/6L2rZDdHsyO" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5prDZh1C4LG</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5prDZh1C4LG</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6h0BTNV6Rbt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6h0BTNV6Rbt/5flxiIccVoa" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6p1zDdjWAJa</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6p1zDdjWAJa</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5ga1mjJb7Th" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5ga1mjJb7Th/6QfDydBTakJ" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6W5gMtvXooP</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6W5gMtvXooP</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5UkjtUNX76A" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5UkjtUNX76A/687iRqJdIzW" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6D9ziosf0Gz</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6D9ziosf0Gz</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/60wJF7O01fv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/67wMJ7iAn2t" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/67wMJ7iAn2t/6obV5MoKtVm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5UiREe8PalQ</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5UiREe8PalQ</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6bRnprYfsC8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5wqREVB3Fhk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5wqREVB3Fhk/6FF7wQOel6B" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6onrILbGpOJ</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6onrILbGpOJ</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6TC8CAxOK1W" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6TC8CAxOK1W/6BeQp94WAx3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_60UifMTDDOl</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_60UifMTDDOl</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6nvOKMa0FPG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6IKuMEDNhfM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5qEUnbLknwh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5qEUnbLknwh/6LxIUUhljcO" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6DJW4qwLzSM</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6DJW4qwLzSM</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/65qBzppvykE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/65qBzppvykE/5mpMDvUOQHU" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6lJB8V6RvW5</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6lJB8V6RvW5</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5X4i8Twm9tX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5kqbE3jghF5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5u654TWD7w5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5u654TWD7w5/5axsZyeBtkb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6082dQMPR8r</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6082dQMPR8r</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5w3S8mrC0Jj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5jTMKJYJNZq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5jTMKJYJNZq/6HeNHbIZ3AG" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6YxLE0cHR7k</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6YxLE0cHR7k</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6fqU0z7lo8H" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6SLG4vAevWO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6SLG4vAevWO/6rpFFAfI1B2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5VpZ4MWsPM7</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5VpZ4MWsPM7</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5bkQQEUfq8Q" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5nR6s9EAh9w" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5teKwKd7UtE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6ivA9vek6U6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/68YOvUSX9R1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6DGYOr0eRhL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6DGYOr0eRhL/63n1UgWhDKG" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6hR4YnlCq97</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6hR4YnlCq97</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6Ds41DMKNaa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6Ds41DMKNaa/5jH0xhknQoD" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5tkQ4EIiuTW</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5tkQ4EIiuTW</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6kSFGQ0AqFz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6kSFGQ0AqFz/6JiUgrSVssV" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_60PjrWCkR09</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_60PjrWCkR09</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5W3d59xMsx9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6JDEz0vXZNy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6QUq216yBVU" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5yRSuMFeXgW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6BZ27t6o31y" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/60Twwjwj0LH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5XYf8f5LzxI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5XYf8f5LzxI/5px0WmBqg89" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6fI4esU39W4</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6fI4esU39W4</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/65aDIRXWGFn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/65aDIRXWGFn/5cGOfcId73R" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6e3bTocUi9y</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6B6XO9NCe09</id>
+					<description lang="und">Rectangular Hotspot 2</description>
+				</component>
+				<component>
+					<id>choice_6e3bTocUi9y</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6ZaK1Nj6CaB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6ZaK1Nj6CaB/5gpHvu3MwbT" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5zrJTn52zT2</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5zrJTn52zT2</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6hL8Y5urVey" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6hL8Y5urVey/6eCbmD4H1df" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_627tqk08rcC</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_627tqk08rcC</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5celcFUp8z1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5celcFUp8z1/6UvoW7mD1Dd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6CHsnQkvWDw</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6CHsnQkvWDw</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5VYcK92zAqo" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5VYcK92zAqo/60cSfq1ibZc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6p8Ib4QGc2j</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6p8Ib4QGc2j</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6kswxUcYz9c" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6kswxUcYz9c/5VwTSHd0uI6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6BUZ7IRpLXI</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6BUZ7IRpLXI</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6ce1lMUDKRF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6l9ZWJ9E8R7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6l9ZWJ9E8R7/6hMcHQh2cbN" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6oqyb7IDDLB</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6oqyb7IDDLB</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6mV398khc28" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/6SXNftnc4dy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">“Great job!” your boss commends you. 
+“That’s why you’re my go-to for 
+everything!”
+
+Thanks to AWS Elemental MediaConvert, no task is too tough for you!
+</name>
+			<description lang="und">“Great job!” your boss commends you. 
+“That’s why you’re my go-to for 
+everything!”
+
+Thanks to AWS Elemental MediaConvert, no task is too tough for you!
+</description>
+		</activity>
+		<activity id="http://5cSae6KZRJg_course_id/5XGGiCc3TG0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Results Slide</name>
+			<description lang="und">Results Slide</description>
+		</activity>
+	</activities>
+</tincan>
