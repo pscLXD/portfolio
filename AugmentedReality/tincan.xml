@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:6obbuLZjDLN" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Augmented Reality</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:6obbuLZjDLN/6QYhjS2nSsj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Color Set 02 - Title slide</name>
+			<description lang="und">Color Set 02 - Title slide</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6obbuLZjDLN/6hqH3NpEiyb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Meet TORRI</name>
+			<description lang="und">Meet TORRI</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6obbuLZjDLN/5yWvUdpDo0g" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">AR Activity 1 Instructions</name>
+			<description lang="und">AR Activity 1 Instructions</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6obbuLZjDLN/6OgxFYBi50r" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The AR American West</name>
+			<description lang="und">The AR American West</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6obbuLZjDLN/63b6jly0Cov" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Trip to the Museum</name>
+			<description lang="und">Trip to the Museum</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6obbuLZjDLN/6ZFZS5jQGlq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">AR At The Museum</name>
+			<description lang="und">AR At The Museum</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6obbuLZjDLN/6UZJYTCdsnR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Off to Shop</name>
+			<description lang="und">Off to Shop</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6obbuLZjDLN/6C6CaaVB8wd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Dress PHIL</name>
+			<description lang="und">Dress PHIL</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6obbuLZjDLN/60V8N8gR40Q" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Conclusion</name>
+			<description lang="und">Conclusion</description>
+		</activity>
+	</activities>
+</tincan>
