@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://69ulhclfuqR_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">ServerRoomSim</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5hS468IBCU0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Title Screen</name>
+			<description lang="und">Title Screen</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5VEq8zuqb2u" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Directions Rooftop</name>
+			<description lang="und">Directions Rooftop</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6HT0rXwVAEA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Rooftop_Setup_Task</name>
+			<description lang="und">Rooftop_Setup_Task</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5ybnioXuYXm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Rootop_Question</name>
+			<description lang="und">Rootop_Question</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5ybnioXuYXm/6EVwW2ee1k8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What should be the goal for the roof system? Select all that apply.</name>
+			<description lang="und">What should be the goal for the roof system? Select all that apply.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5a2mLRG9Snw</correctResponsePattern>
+				<correctResponsePattern>choice_5yRmgA9YhP7</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5a2mLRG9Snw</id>
+					<description lang="und">Align with The Climate Pledge.</description>
+				</component>
+				<component>
+					<id>choice_5yRmgA9YhP7</id>
+					<description lang="und">Reduce carbon emissions.</description>
+				</component>
+				<component>
+					<id>choice_68xfBZ0CAfP</id>
+					<description lang="und">Use the fanciest technology.</description>
+				</component>
+				<component>
+					<id>choice_6l3Pa5ool5M</id>
+					<description lang="und">Test the latest tech before anyone else.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6gRePwFMpLB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Rooftop_Setup</name>
+			<description lang="und">Rooftop_Setup</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6ZMOxql85u6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Rooftop_Why</name>
+			<description lang="und">Rooftop_Why</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6eMFbsFn2F5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Directions Inside</name>
+			<description lang="und">Directions Inside</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5mQhLSNDvFZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">SR_Task1</name>
+			<description lang="und">SR_Task1</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5fq21JE1XnL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">SR_Question_1</name>
+			<description lang="und">SR_Question_1</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5fq21JE1XnL/6MmlHut2Xix" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What should we do with this old equipment? Select the best answer.</name>
+			<description lang="und">What should we do with this old equipment? Select the best answer.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_65fJYH3Kess</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_65fJYH3Kess</id>
+					<description lang="und">“Recycle it, that’s the sustainable option.”</description>
+				</component>
+				<component>
+					<id>choice_5fQMRwSeaNX</id>
+					<description lang="und">“Sell it, we can make some money off of it!”</description>
+				</component>
+				<component>
+					<id>choice_5n9Im63uw0z</id>
+					<description lang="und">“Throw it in the dumpster. It’s old junk anyway.”</description>
+				</component>
+				<component>
+					<id>choice_64fcySV8Vz5</id>
+					<description lang="und">“Keep it running. You might need it one day.”</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5shl3BqIzaN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">SR_Slider_1</name>
+			<description lang="und">SR_Slider_1</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6n79lIzmDmX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">SE_Why1</name>
+			<description lang="und">SE_Why1</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6Mwbt4r0QHe" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">SR_Task2</name>
+			<description lang="und">SR_Task2</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6qbbjiLKS0o" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">SR_Question2</name>
+			<description lang="und">SR_Question2</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6qbbjiLKS0o/5mhv9ISpfSh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">How should this data center be staffed and secured? Select the best answer.</name>
+			<description lang="und">How should this data center be staffed and secured? Select the best answer.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6RsfcGLlsi0</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6RsfcGLlsi0</id>
+					<description lang="und">“Staff it with reliable, trained professionals.”</description>
+				</component>
+				<component>
+					<id>choice_5gsdEyc2o6P</id>
+					<description lang="und">“It’s the 21st century! Robots, man!”</description>
+				</component>
+				<component>
+					<id>choice_68KMTAy72Ze</id>
+					<description lang="und">“Do it remotely. You don’t need people there.”</description>
+				</component>
+				<component>
+					<id>choice_5Wx65LkYS4K</id>
+					<description lang="und">“Can we get interns to do it for us?”</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6ARy9l9D6J4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">SR_Slider2</name>
+			<description lang="und">SR_Slider2</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/66zZxpGOdVF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">SR_Why2</name>
+			<description lang="und">SR_Why2</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6ddShd2E7an" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Conclusion</name>
+			<description lang="und">Conclusion</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5vAwN5kCkLL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Servers</name>
+			<description lang="und">Servers</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5UtK3PCdnPI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Employees</name>
+			<description lang="und">Employees</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5b0cY60R33l" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Power</name>
+			<description lang="und">Power</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6JKobvo72aj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cooling</name>
+			<description lang="und">Cooling</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/68xykv8sH5Q" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Roof Fans</name>
+			<description lang="und">Roof Fans</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6SL2Xuwsx64" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Security</name>
+			<description lang="und">Security</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6L3kfoUsVMJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Solar Projects</name>
+			<description lang="und">Solar Projects</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6ZS0YhH2I1B" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">AC Units</name>
+			<description lang="und">AC Units</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6TEAMGkH9Fr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Roof Help</name>
+			<description lang="und">Roof Help</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/65cfFomCxkQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Server Help</name>
+			<description lang="und">Server Help</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5rbmZz2zZaK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">People Help</name>
+			<description lang="und">People Help</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6duAseMtMxs" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Title Screen</name>
+			<description lang="und">Title Screen</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6DfSGUz84Qw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Scenario_Setup</name>
+			<description lang="und">Scenario_Setup</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5eBDHfApg1P" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Scenario_Menu</name>
+			<description lang="und">Scenario_Menu</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/65JkcV1umlX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">HackerMain</name>
+			<description lang="und">HackerMain</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6G1CGlAmuQp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">HackerQ1</name>
+			<description lang="und">HackerQ1</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6FCEOeCOBR9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">HackerQ2</name>
+			<description lang="und">HackerQ2</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5jqnEDqMskP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">HackerQ3</name>
+			<description lang="und">HackerQ3</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5kdV0bcMoQy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">HackerRecap</name>
+			<description lang="und">HackerRecap</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6C8d3A5tjN4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">eWaste Main</name>
+			<description lang="und">eWaste Main</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5ufw6CXOzMN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">eWasteQ1</name>
+			<description lang="und">eWasteQ1</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6hb0YUzayax" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">eWasteQ2</name>
+			<description lang="und">eWasteQ2</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/6NibWKLmsAR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">eWasteQ3</name>
+			<description lang="und">eWasteQ3</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/66DzHP8arX9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Ewaste Wrapup</name>
+			<description lang="und">Ewaste Wrapup</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5wKBSZsCy4f" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RecoveryMain</name>
+			<description lang="und">RecoveryMain</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5bzIHwzCXJi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RecoveryQ1</name>
+			<description lang="und">RecoveryQ1</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5V3o9XciIIk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RecoveryQ2</name>
+			<description lang="und">RecoveryQ2</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5nlXzvQnSdK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RecoveryQ3</name>
+			<description lang="und">RecoveryQ3</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5lZuKnxm9AH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RecoveryWrapup</name>
+			<description lang="und">RecoveryWrapup</description>
+		</activity>
+		<activity id="http://69ulhclfuqR_course_id/5mrrPLoDrR5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Conclusion</name>
+			<description lang="und">Conclusion</description>
+		</activity>
+	</activities>
+</tincan>
