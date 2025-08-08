@@ -27467,9 +27467,9 @@ var Cmi5;
     };
 }());
 /* declare globals that are set via Desktop token replacement for configuration */
-var TC_COURSE_ID = "_5aQQgzpdhv9";
-var TC_COURSE_NAME = "Simulation - Knowledge Bases Task 1";
-var TC_COURSE_DESC = "Simulation - Knowledge Bases Task 1";
+var TC_COURSE_ID = "_5fnURknNTxT";
+var TC_COURSE_NAME = "SimKBs";
+var TC_COURSE_DESC = "SimKBs";
 var TC_RECORD_STORES = "[]";
 
 /* declare other globals we'll use */

@@ -1,124 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
 	<activities>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9" type="http://adlnet.gov/expapi/activities/course">
-			<name lang="und">Simulation - Knowledge Bases Task 1</name>
+		<activity id="urn:articulate:storyline:5fnURknNTxT" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">SimKBs</name>
 			<description lang="und" />
 			<launch lang="und">index_lms.html</launch>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/5ph5zzsMVFu" type="http://adlnet.gov/expapi/activities/module">
-			<name lang="und">Task 1: Leverage a fully-managed RAG application with Amazon Bedrock’s RetrieveAndGenerate API</name>
-			<description lang="und">Task 1: Leverage a fully-managed RAG application with Amazon Bedrock’s RetrieveAndGenerate API</description>
-		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6YRtKZPn45r" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6YRtKZPn45r" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Choose the large JupyterLab button</name>
 			<description lang="und">Choose the large JupyterLab button</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6oItzCYqkPl" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6oItzCYqkPl" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Choose the name of the existing lab</name>
 			<description lang="und">Choose the name of the existing lab</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/5x2KAmMShzQ" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/5x2KAmMShzQ" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Choose Run space</name>
 			<description lang="und">Choose Run space</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/5cVeCDB6Jdh" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/5cVeCDB6Jdh" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">The lab application is starting</name>
 			<description lang="und">The lab application is starting</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6O5Jv7wgBmF" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6O5Jv7wgBmF" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Choose Open JupyterLab</name>
 			<description lang="und">Choose Open JupyterLab</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/5mZmizyId85" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/5mZmizyId85" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">The lab is spinning up</name>
 			<description lang="und">The lab is spinning up</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6Yil4Bv4u5d" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6Yil4Bv4u5d" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Choose the Task-1 notebook</name>
 			<description lang="und">Choose the Task-1 notebook</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/5wifbG54Ory" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/5wifbG54Ory" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Choose the scroll bar to scroll down</name>
 			<description lang="und">Choose the scroll bar to scroll down</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6TJoFImjZlM" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6TJoFImjZlM" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Choose the scroll bar to continue scrolling down</name>
 			<description lang="und">Choose the scroll bar to continue scrolling down</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6R8bnewl71L" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6R8bnewl71L" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the first Task 1.1 code cell</name>
 			<description lang="und">Run the first Task 1.1 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6Xkp3kZ0dTD" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6Xkp3kZ0dTD" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the second Task 1.1 code cell</name>
 			<description lang="und">Run the second Task 1.1 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6V6vqffsCBE" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6V6vqffsCBE" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Examine the Knowledge Base ID</name>
 			<description lang="und">Examine the Knowledge Base ID</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6o0qU0GW2wf" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6o0qU0GW2wf" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the first Task 1.2 code cell</name>
 			<description lang="und">Run the first Task 1.2 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/65BvVEvDXNs" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/65BvVEvDXNs" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the second Task 1.2 code cell</name>
 			<description lang="und">Run the second Task 1.2 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/64NukSLXolt" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/64NukSLXolt" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Choose the scroll bar to scroll down</name>
 			<description lang="und">Choose the scroll bar to scroll down</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6SmpMoVosuF" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6SmpMoVosuF" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the first Task 1.3 code cell</name>
 			<description lang="und">Run the first Task 1.3 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/5i8XTcaIONN" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/5i8XTcaIONN" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the second Task 1.3 code cell</name>
 			<description lang="und">Run the second Task 1.3 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6Pm7oPSeU3T" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6Pm7oPSeU3T" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the first Task 1.4 code cell</name>
 			<description lang="und">Run the first Task 1.4 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6mj0SjZBabQ" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6mj0SjZBabQ" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the second Task 1.4 code cell</name>
 			<description lang="und">Run the second Task 1.4 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/5ZrjuLNhT4g" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/5ZrjuLNhT4g" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the third Task 1.4 code cell</name>
 			<description lang="und">Run the third Task 1.4 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6dfJsjgylrX" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6dfJsjgylrX" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Choose the scroll bar to scroll down</name>
 			<description lang="und">Choose the scroll bar to scroll down</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/5ujaxP1sk6z" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/5ujaxP1sk6z" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the Task 1.5 code cell</name>
 			<description lang="und">Run the Task 1.5 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6CRhjsWZo0j" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6CRhjsWZo0j" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the first Task 1.5.1 code cell</name>
 			<description lang="und">Run the first Task 1.5.1 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/5kBuuXHcET6" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/5kBuuXHcET6" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the second Task 1.5.1 code cell</name>
 			<description lang="und">Run the second Task 1.5.1 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6pVEaoduw4z" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6pVEaoduw4z" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the third Task 1.5.1 code cell</name>
 			<description lang="und">Run the third Task 1.5.1 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6gqhW0xhqHj" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6gqhW0xhqHj" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Run the Task 1.5.2 code cell</name>
 			<description lang="und">Run the Task 1.5.2 code cell</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/6e5lnrDA3y8" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/6e5lnrDA3y8" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Review the outcome and close the Task-1 notebook file</name>
 			<description lang="und">Review the outcome and close the Task-1 notebook file</description>
 		</activity>
-		<activity id="urn:articulate:storyline:5aQQgzpdhv9/5lhtpeBcyCE" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="urn:articulate:storyline:5fnURknNTxT/5lhtpeBcyCE" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Thank you</name>
 			<description lang="und">Thank you</description>
 		</activity>
